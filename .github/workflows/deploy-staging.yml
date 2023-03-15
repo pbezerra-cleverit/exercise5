@@ -9,7 +9,7 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: pbezerra-cleverit-azure-ttt
+  DOCKER_IMAGE_NAME: pbezerra-cleverit1-azure-ttt
   AZURE_WEBAPP_NAME: pbezerra-cleverit-ttt-app
   ###############################################
 
